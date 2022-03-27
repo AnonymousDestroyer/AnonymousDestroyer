@@ -1,8 +1,8 @@
-### Hi there 👋
-- 🔭 I’m currently working on Samsung Research
+### Hi all 👋
+- 🧑🏻‍💻 I’m currently working on Samsung Research
 - 🌱 I’m currently learning Multimodal Learning
 - 👯 I’m looking to collaborate on Zero-shot learning
-- 📫 How to reach me: wyj1934966789@gmail.com
+- 🌈 How to reach me: wyj1934966789@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousDestroyer&show_icons=true&theme=buefy&count_private=true&hide=prs&line_height=24.3)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=buefy&hide=javascript,html,typescript,css,glsl,&langs_count=6&card_width=270)
