@@ -5,7 +5,7 @@
 - 📫 How to reach me: wyj1934966789@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousDestroyer&show_icons=true&theme=buefy&count_private=true&hide=prs&line_height=24.3)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=buefy&hide=javascript,html&langs_count=9&card_with=30)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=buefy&hide=javascript,html&langs_count=9&card_with=25)
 
 <!--
 **AnonymousDestroyer/AnonymousDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
