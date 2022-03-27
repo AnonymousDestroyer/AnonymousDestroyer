@@ -2,9 +2,8 @@
 - 🔭 I’m currently working on Samsung Research
 - 🌱 I’m currently learning Multimodal Learning
 - 👯 I’m looking to collaborate on Zero-shot learning and Image generation
-- 📫 How to reach me: wyj1934966789@gmail.com
-- 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/AnonymousDestroyer/github-readme-stats)
+- 📫 How to reach me: wyj1934966789@gmail.com or 1934967789@qq.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousDestroyer)(https://github.com/AnonymousDestroyer/github-readme-stats)
 
 <!--
 **AnonymousDestroyer/AnonymousDestroyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
