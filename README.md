@@ -1,7 +1,7 @@
 ### Hi all 👋
 - 🧑🏻‍💻 I’m currently working on Samsung Research
 - 🌱 I’m currently learning Multimodal Learning
-- 👯 I’m looking to collaborate on Zero-shot learning
+- 👯 I’m looking to collaborate on some interesting things
 - 🌈 How to reach me: yujeen.wang@gmail.com, yujin.wang@samsung.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnonymousDestroyer&show_icons=true&theme=buefy&count_private=true&hide=prs&line_height=24.3)
