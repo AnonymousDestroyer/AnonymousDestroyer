@@ -1,6 +1,6 @@
 ### Hi all 👋
 - 🧑🏻‍💻 I’m currently working on Samsung Research
-- 🌱 I’m currently learning Multimodal Learning
+- 🌱 I’m currently learning Multimodal Learning  and LLMs
 - 👯 I’m looking to collaborate on some interesting things
 - 🌈 How to reach me: yujeen.wang@gmail.com, yujin.wang@samsung.com, wangyujin@tsinghua.edu.cn
 
